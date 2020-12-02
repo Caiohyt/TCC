@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.5" height="15" viewBox="0 0 14.5 15">
+  <g id="Componente_4_3" data-name="Componente 4 – 3" transform="translate(0.5 0.5)">
+    <g id="Retângulo_64" data-name="Retângulo 64" fill="#fff" stroke="#773a8b" stroke-width="0.5">
+      <rect width="7" height="7" stroke="none"/>
+      <rect x="-0.25" y="-0.25" width="7.5" height="7.5" fill="none"/>
+    </g>
+    <g id="Retângulo_64-2" data-name="Retângulo 64" transform="translate(7)" fill="#fff" stroke="#773a8b" stroke-width="0.5">
+      <rect width="6.5" height="7" stroke="none"/>
+      <rect x="-0.25" y="-0.25" width="7" height="7.5" fill="none"/>
+    </g>
+    <g id="Retângulo_64-3" data-name="Retângulo 64" transform="translate(0 7)" fill="#fff" stroke="#773a8b" stroke-width="0.5">
+      <rect width="7" height="7" stroke="none"/>
+      <rect x="-0.25" y="-0.25" width="7.5" height="7.5" fill="none"/>
+    </g>
+    <g id="Retângulo_64-4" data-name="Retângulo 64" transform="translate(7 7)" fill="#fff" stroke="#773a8b" stroke-width="0.5">
+      <rect width="6.5" height="7" stroke="none"/>
+      <rect x="-0.25" y="-0.25" width="7" height="7.5" fill="none"/>
+    </g>
+  </g>
+</svg>
